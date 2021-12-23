@@ -2,6 +2,6 @@
 
 • Commands are changeable.
 
-• The program is using Lua script which can be learned on Rainmeter.com.
+• The program is using Lua script which can be learned from Rainmeter.com.
 
-• Feel free to download and play around with it
+• Feel free to download and modify it.
